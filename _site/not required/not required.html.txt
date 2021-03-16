@@ -1,0 +1,60 @@
+                  <div class="field third">
+                    <label for="demo-name">Name</label>
+                    <input
+                      type="text"
+                      name="demo-name"
+                      id="demo-name"
+                      value=""
+                      placeholder="Jane Doe"
+                    />
+                  </div>
+                  <div class="field third">
+                    <label for="demo-email">Email</label>
+                    <input
+                      type="email"
+                      name="demo-email"
+                      id="demo-email"
+                      value=""
+                      placeholder="jane@untitled.tld"
+                    />
+                  </div>
+
+                  <div class="field quarter">
+                    <input
+                      type="radio"
+                      id="demo-priority-low"
+                      name="demo-priority"
+                      class="color2"
+                      checked
+                    />
+                    <label for="demo-priority-low">Colored</label>
+                  </div>
+                  <div class="field quarter">
+                    <input
+                      type="radio"
+                      id="demo-priority-high"
+                      name="demo-priority"
+                      class="color2"
+                    />
+                    <label for="demo-priority-high">High Priority</label>
+                  </div>
+
+                  <div class="field quarter">
+                    <input
+                      type="checkbox"
+                      id="demo-copy"
+                      name="demo-copy"
+                      class="color2"
+                    />
+                    <label for="demo-copy">Email a copy</label>
+                  </div>
+                  <div class="field quarter">
+                    <input
+                      type="checkbox"
+                      id="demo-human"
+                      name="demo-human"
+                      class="color2"
+                      checked
+                    />
+                    <label for="demo-human">Not a robot</label>
+                  </div>
